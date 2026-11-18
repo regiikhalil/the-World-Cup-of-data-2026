@@ -33,7 +33,7 @@ Imrane Talay
 Jairo Rodríguez
 
 ## Published 
-2026-06-27
+2026-06-15
 
 ## Data and Development
 This analysis was developed as part of Sports Data Campus’s The World Cup of Data, using StatsBomb data. Raw data is not included in this repository. Data and third-party assets remain subject to their respective licences.
